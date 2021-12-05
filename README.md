@@ -1,16 +1,7 @@
 # contacts
 
-A new Flutter project.
+Aplicativo do curso do professor Balta na plataforma balta.io, 
 
-## Getting Started
+Neste projeto, eu aprendi a criar layouts para Android e IOS. Além disso, aprendi a estruturar páginas, fazer navegação, usar componente do Material (Android) e Cupertino (IOS). Depois aprendi a fazer o chaveamento das duas plataformas para exibir o layout de cada plataforma em um determinado momento.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este curso é a base do curso de Contatos.
